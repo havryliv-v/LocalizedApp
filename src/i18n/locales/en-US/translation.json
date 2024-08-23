@@ -1,0 +1,19 @@
+{
+  "signUp": {
+    "description": " Yes, the Hebrew translation you provided is suitable for Right-to-Left languages like Hebrew. However, for the UI to display it correctly as RTL, you'll need to ensure the following in your Expo project",
+    "create": "Create an account",
+    "accountExists": "Already have an account?",
+    "login": "Login",
+    "email": "Email address",
+    "password": "Password",
+    "continue": "Continue"
+  },
+  "login": {
+    "title": "Login",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "email": "Email address",
+    "password": "Password",
+    "login": "Login"
+  }
+}
