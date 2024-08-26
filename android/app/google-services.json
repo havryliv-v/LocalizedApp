@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486600956947",
+    "project_id": "petlocalizationapp",
+    "storage_bucket": "petlocalizationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486600956947:android:5e6bc47ce4b533ce5073e6",
+        "android_client_info": {
+          "package_name": "com.petlocalizedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcDdq0zYcK2VHCN-T2Miel3toFrsoldv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
